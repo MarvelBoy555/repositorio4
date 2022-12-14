@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 0, 0);
+    background-image: url(../images/uwp3034886.gif);
+    background-size: cover;
+    color: rgb(135, 0, 189);
+    text-align: center;
+    text-overflow: clip;
+    text-decoration: double;
+    text-shadow: 1ch;
+}
